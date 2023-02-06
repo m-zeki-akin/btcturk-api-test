@@ -5,35 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c84eaffb-06d5-4707-8d30-b00aa7243904" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/controller/BaseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/controller/ProductApplicationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/controller/ProductDataController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/handler/SuiteHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/handler/TestHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/listener/SuiteListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/listener/TestListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/service/MapperService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/service/WiremockService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/user/UserPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/model/dto/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/model/response/ErrorResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/model/response/GetProductsResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/test/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/test/GetProductsResponseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/util/ReaderUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/data/products.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/mappings/get-products-invalid-token.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/mappings/get-products.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/suite/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,8 +157,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Shell Script.run.sh" />
         <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Shell Script.run.sh" />
         <item itemvalue="TestNG.GetProductsResponseTest.should_return_error_when_get_products_response_with_invalid_token" />
         <item itemvalue="TestNG.GetProductsResponseTest" />
         <item itemvalue="TestNG.C:/Users/Zeki/IdeaProjects/btcturk-api-test/src/test/resources/suite/testng.xml" />
