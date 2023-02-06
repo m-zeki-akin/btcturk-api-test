@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c84eaffb-06d5-4707-8d30-b00aa7243904" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/controller/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/controller/ProductApplicationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/controller/ProductDataController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/handler/SuiteHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/handler/TestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/listener/SuiteListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/listener/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/service/MapperService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/service/WiremockService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/user/UserPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/model/dto/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/model/response/ErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/model/response/GetProductsResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/test/GetProductsResponseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/util/ReaderUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data/products.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/mappings/get-products-invalid-token.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/mappings/get-products.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/suite/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LJLACoi41EYwza8LdQxDMXbb7E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Zeki/IdeaProjects/btcturk-api-test/src/test/resources/mappings",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zeki\IdeaProjects\btcturk-api-test\src\test\resources\mappings" />
+      <recent name="C:\Users\Zeki\IdeaProjects\btcturk-api-test" />
+      <recent name="C:\Users\Zeki\IdeaProjects\btcturk-api-test\src\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zeki\IdeaProjects\btcturk-api-test\src\test\resources\mappings" />
+      <recent name="C:\Users\Zeki\IdeaProjects\btcturk-api-test\src\test\resources\data" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.btcturk.apitest.model.response" />
+      <recent name="com.btcturk.apitest.controller" />
+      <recent name="com.btcturk.apitest.model" />
+      <recent name="com.btcturk.apitest.infrastructure.listener" />
+      <recent name="com.btcturk.apitest.infrastructure.user" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.Dockerfile">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="btcturk-api-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="btcturk-api-test" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/run.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/Zeki/IdeaProjects/btcturk-api-test/src/test/resources/suite/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="btcturk-api-test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/suite/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetProductsResponseTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="btcturk-api-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.btcturk.apitest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.btcturk.apitest.test" />
+      <option name="MAIN_CLASS_NAME" value="com.btcturk.apitest.test.GetProductsResponseTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetProductsResponseTest.should_return_error_when_get_products_response_with_invalid_token" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="btcturk-api-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.btcturk.apitest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.btcturk.apitest.test" />
+      <option name="MAIN_CLASS_NAME" value="com.btcturk.apitest.test.GetProductsResponseTest" />
+      <option name="METHOD_NAME" value="should_return_error_when_get_products_response_with_invalid_token" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.run.sh" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="TestNG.GetProductsResponseTest.should_return_error_when_get_products_response_with_invalid_token" />
+        <item itemvalue="TestNG.GetProductsResponseTest" />
+        <item itemvalue="TestNG.C:/Users/Zeki/IdeaProjects/btcturk-api-test/src/test/resources/suite/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c84eaffb-06d5-4707-8d30-b00aa7243904" name="Changes" comment="" />
+      <created>1675584094280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675584094280</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

@@ -1,0 +1,53 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/products",
+    "headers": {
+      "Content-Type": {
+        "equalTo": "application/json"
+      },
+      "Authorization": {
+        "equalTo": "Bearer token"
+      }
+    }
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": [
+      {
+        "id": 1,
+        "title": "Apple iPad 9. Nesil 64 GB",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 5400,
+        "isBasketDiscount": true,
+        "basketDiscountPercentage": 10,
+        "rating": 4.69,
+        "stock": 50,
+        "isActive": false,
+        "brand": "Apple",
+        "category": "ipad",
+        "images": [
+          "https://cdn.dsmcdn.com/ty321/product/media/images/20220204/14/43694637/262004743/1/1_org_zoom.jpg",
+          "https://cdn.dsmcdn.com/ty323/product/media/images/20220204/14/43694637/262004743/3/3_org_zoom.jpg"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Apple iPhone 12 64 GB",
+        "description": "Lorem ipsum dolor sit amet.",
+        "price": 13500,
+        "isBasketDiscount": false,
+        "rating": 4.4,
+        "stock": 20,
+        "brand": "Apple",
+        "category": "smartphones",
+        "images": [
+          "https://cdn.dsmcdn.com/mnresize/1200/1800/ty94/product/media/images/20210404/09/74346117/57616583/1/1_org_zoom.jpg"
+        ]
+      }
+    ],
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

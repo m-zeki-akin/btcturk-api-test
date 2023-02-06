@@ -1,0 +1,23 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/products",
+    "headers": {
+      "Content-Type": {
+        "equalTo": "application/json"
+      },
+      "Authorization": {
+        "equalTo": "Bearer fail"
+      }
+    }
+  },
+  "response": {
+    "status": 401,
+    "jsonBody": {
+      "message": "Invalid Token"
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
