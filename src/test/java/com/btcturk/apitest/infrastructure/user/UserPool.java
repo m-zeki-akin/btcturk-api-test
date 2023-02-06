@@ -112,6 +112,7 @@ public class UserPool {
             for (User user : busy.get()) {
                 push(user);
             }
+            busy.get().clear();
         }
 
     }

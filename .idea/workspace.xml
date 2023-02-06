@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c84eaffb-06d5-4707-8d30-b00aa7243904" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/listener/TestListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/listener/TestListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/user/UserPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/btcturk/apitest/infrastructure/user/UserPool.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <recent name="com.btcturk.apitest.infrastructure.user" />
     </key>
   </component>
-  <component name="RunManager" selected="Docker.Dockerfile">
+  <component name="RunManager" selected="TestNG.C:/Users/Zeki/IdeaProjects/btcturk-api-test/src/test/resources/suite/testng.xml">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="btcturk-api-test" />
       <method v="2">
@@ -157,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Zeki/IdeaProjects/btcturk-api-test/src/test/resources/suite/testng.xml" />
+        <item itemvalue="TestNG.GetProductsResponseTest" />
         <item itemvalue="Docker.Dockerfile" />
         <item itemvalue="Shell Script.run.sh" />
         <item itemvalue="TestNG.GetProductsResponseTest.should_return_error_when_get_products_response_with_invalid_token" />
-        <item itemvalue="TestNG.GetProductsResponseTest" />
-        <item itemvalue="TestNG.C:/Users/Zeki/IdeaProjects/btcturk-api-test/src/test/resources/suite/testng.xml" />
       </list>
     </recent_temporary>
   </component>
